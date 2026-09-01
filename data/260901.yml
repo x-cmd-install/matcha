@@ -1,0 +1,62 @@
+about:
+  description: A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
+  license: MIT
+  homepage: https://matcha.email
+  head: 5198d8f
+  archived: false
+  latestVersion: nightlyv0
+  collectedAt: 2026-09-01T05:42:00Z
+timeline:
+  created: 2025-07-28
+  lastCommit: 2026-08-10
+  lastRelease: 2026-08-10
+popularity:
+  star: 1079
+  watcher: 3
+  fork: 83
+  release: 112
+  contributor: 49
+  pullRequest: 123
+  issue: 868
+language:
+  Go: 1217335
+  C: 312282
+  Lua: 25238
+  Swift: 24786
+  Python: 17454
+  Nix: 4052
+  Makefile: 2316
+totalLine: 1603463
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 2
+    mergedPR: 0
+    openPR: 6
+    closedIssue: 0
+    openIssue: 2
+    commit: 1
+  last90d:
+    since: 2026-06-03
+    release: 16
+    mergedPR: 112
+    openPR: 23
+    closedIssue: 76
+    openIssue: 49
+    commit: 56
+  last180d:
+    since: 2026-03-05
+    release: 62
+    mergedPR: 557
+    openPR: 24
+    closedIssue: 728
+    openIssue: 52
+    commit: 499
+  last360d:
+    since: 2025-09-06
+    release: 99
+    mergedPR: 676
+    openPR: 24
+    closedIssue: 783
+    openIssue: 52
+    commit: 654
