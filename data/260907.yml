@@ -5,7 +5,7 @@ about:
   head: 5198d8f
   archived: false
   latestVersion: "nightlyv0"
-  collectedAt: 2026-09-07T04:36:36Z
+  collectedAt: 2026-09-07T19:46:04Z
 timeline:
   created: 2025-07-28
   lastCommit: 2026-08-10
@@ -16,8 +16,8 @@ popularity:
   fork: 83
   release: 112
   contributor: 49
-  pullRequest: 815
-  issue: 869
+  pullRequest: 816
+  issue: 870
 language:
   Go: 1217335
   C: 312282
@@ -32,60 +32,60 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 0
-    openPR: 5
+    openPR: 6
     closedIssue: 1
-    openIssue: 2
+    openIssue: 3
     commit: 0
   last60d:
     since: 2026-07-09
     release: 5
     mergedPR: 11
-    openPR: 18
+    openPR: 19
     closedIssue: 7
-    openIssue: 3
+    openIssue: 4
     commit: 5
   last90d:
     since: 2026-06-09
     release: 12
     mergedPR: 90
-    openPR: 23
+    openPR: 24
     closedIssue: 74
-    openIssue: 48
+    openIssue: 49
     commit: 54
   last180d:
     since: 2026-03-11
     release: 58
     mergedPR: 530
-    openPR: 24
+    openPR: 25
     closedIssue: 723
-    openIssue: 50
+    openIssue: 51
     commit: 466
   last360d:
     since: 2025-09-12
     release: 99
     mergedPR: 676
-    openPR: 24
+    openPR: 25
     closedIssue: 786
-    openIssue: 50
+    openIssue: 51
     commit: 654
   last720d:
     since: 2024-09-17
     release: 100
     mergedPR: 692
-    openPR: 24
+    openPR: 25
     closedIssue: 819
-    openIssue: 50
+    openIssue: 51
     commit: 789
 total:
   release: 112
   mergedPR: 692
-  openPR: 24
+  openPR: 25
   closedIssue: 819
-  openIssue: 50
+  openIssue: 51
   commit: 789
 ---
 path: /home/runner/.x-repo/github.com/floatpane/matcha
-collectedAt: 2026-09-07T04:36:39Z
+collectedAt: 2026-09-07T19:46:07Z
 loc:
   Go:
     code: 35769
@@ -181,7 +181,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:36:40+00:00
+  collectedAt: 2026-09-07T19:46:08+00:00
   platform:
     darwin/arm64:
       name:  matcha_0.44.0_darwin_arm64.tar.gz
