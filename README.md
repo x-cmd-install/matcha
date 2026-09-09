@@ -7,7 +7,7 @@ A beautiful and functional email client for your terminal, built with Go and the
 - **Latest release**: `nightlyv0` (2026-07-12)
 - **Last commit**: 2026-08-10
 - **License**: MIT
-- **Stars**: 1091 · **Forks**: 83 · **Open issues**: 870 · **Contributors**: 49
+- **Stars**: 1092 · **Forks**: 82 · **Open issues**: 870 · **Contributors**: 49
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/matcha> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:45:59Z._
+_Last regenerated: 2026-09-09T04:42:33Z._
