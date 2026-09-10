@@ -23,7 +23,18 @@ x install matcha
 - **Latest**: `nightlyv0` (2026-07-12)
 - **Last commit**: 2026-08-10
 - **Assets in release**: 7
-- **Published**: 2026-07-12T09:09:44Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/floatpane/matcha/releases/download/v0.44.0/checksums.txt) | 594 B | `other` |
+| [matcha_0.44.0_darwin_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_darwin_amd64.tar.gz) | 7.3 MiB | `native/darwin/x64` |
+| [matcha_0.44.0_darwin_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_darwin_arm64.tar.gz) | 6.9 MiB | `native/darwin/arm64` |
+| [matcha_0.44.0_linux_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_linux_amd64.tar.gz) | 7.7 MiB | `native/linux/x64` |
+| [matcha_0.44.0_linux_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_linux_arm64.tar.gz) | 7.1 MiB | `native/linux/arm64` |
+| [matcha_0.44.0_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_windows_amd64.zip) | 6.6 MiB | `native/win/x64` |
+| [matcha_0.44.0_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_windows_arm64.zip) | 5.9 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -58,8 +69,8 @@ Total: **56,148** lines of code across **221** files in the top 5 languages.
 Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `matcha` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/matcha.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/matcha.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:54:22Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:26:44Z._
