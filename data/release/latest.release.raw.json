@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8049930,
       "digest": "sha256:787e917fa72716c0630134862c7c74c39be20df61b40edd3a3e768effab83b51",
-      "download_count": 479,
+      "download_count": 483,
       "created_at": "2026-07-12T09:09:42Z",
       "updated_at": "2026-07-12T09:09:43Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6875212,
       "digest": "sha256:349270e04ad9d3f34e3f58137df0445068b591c65f0a73c3374267a365923a96",
-      "download_count": 215,
+      "download_count": 219,
       "created_at": "2026-07-12T09:09:40Z",
       "updated_at": "2026-07-12T09:09:42Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_windows_amd64.zip"

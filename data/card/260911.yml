@@ -7,7 +7,7 @@ about:
   latestVersion: "nightlyv0"
   latestRelease: "v0.44.0"
   latestPrerelease: "nightlyv0"
-  collectedAt: 2026-09-11T04:42:42Z
+  collectedAt: 2026-09-11T20:23:59Z
 timeline:
   created: 2025-07-28
   lastCommit: 2026-08-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-12
   lastPrerelease: 2026-08-10
 popularity:
-  star: 1095
+  star: 1098
   watcher: 3
   fork: 82
   release: 112
@@ -45,51 +45,51 @@ recent:
     release: 4
     mergedPR: 6
     openPR: 17
-    closedIssue: 4
-    openIssue: 5
+    closedIssue: 5
+    openIssue: 4
     commit: 5
   last90d:
     since: 2026-06-13
     release: 12
     mergedPR: 89
-    openPR: 24
-    closedIssue: 75
-    openIssue: 47
+    openPR: 23
+    closedIssue: 76
+    openIssue: 46
     commit: 54
   last180d:
     since: 2026-03-15
     release: 55
     mergedPR: 512
-    openPR: 25
-    closedIssue: 719
-    openIssue: 49
+    openPR: 24
+    closedIssue: 720
+    openIssue: 48
     commit: 466
   last360d:
     since: 2025-09-16
     release: 99
     mergedPR: 676
-    openPR: 25
-    closedIssue: 789
-    openIssue: 49
+    openPR: 24
+    closedIssue: 790
+    openIssue: 48
     commit: 654
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 692
-    openPR: 25
-    closedIssue: 822
-    openIssue: 49
+    openPR: 24
+    closedIssue: 823
+    openIssue: 48
     commit: 789
 total:
   release: 112
   mergedPR: 692
-  openPR: 25
-  closedIssue: 822
-  openIssue: 49
+  openPR: 24
+  closedIssue: 823
+  openIssue: 48
   commit: 789
 ---
 path: /home/runner/.x-repo/github.com/floatpane/matcha
-collectedAt: 2026-09-11T04:42:46Z
+collectedAt: 2026-09-11T20:24:03Z
 loc:
   Go:
     code: 35769
