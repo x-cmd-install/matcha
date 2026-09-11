@@ -12,6 +12,18 @@ A beautiful and functional email client for your terminal, built with Go and the
 x install matcha
 ```
 
+## Code insight
+
+Total: **56,148** lines of code across **221** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 35,769 | 2,954 | 5,377 | 195 |
+| C | 8,157 | 19 | 1,103 | 5 |
+| Json | 7,173 | 0 | 0 | 17 |
+| Jsx | 1,401 | 13 | 50 | 2 |
+| Css | 1,192 | 29 | 105 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/floatpane/matcha>
@@ -23,6 +35,25 @@ x install matcha
 - **Latest**: `nightlyv0` (2026-07-12)
 - **Last commit**: 2026-08-10
 - **Assets in release**: 7
+
+## Popularity
+
+- **Stars**: 1,095 · **Forks**: 82 · **Open issues**: 871 · **Contributors**: 49
+
+## Totals (cumulative)
+
+- **Releases**: 112 · **Merged PRs**: 692 · **Open PRs**: 25 · **Closed issues**: 822 · **Open issues**: 49 · **Commits**: 789
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 4 | 1 | 4 | 0 |
+| last60d | 2026-07-13 | 4 | 6 | 17 | 4 | 5 | 5 |
+| 90d | 2026-06-13 | 12 | 89 | 24 | 75 | 47 | 54 |
+| last180d | 2026-03-15 | 55 | 512 | 25 | 719 | 49 | 466 |
+| 360d | 2025-09-16 | 99 | 676 | 25 | 789 | 49 | 654 |
+| last720d | 2024-09-21 | 100 | 692 | 25 | 822 | 49 | 789 |
 
 ## Release assets
 
@@ -36,34 +67,6 @@ x install matcha
 | [matcha_0.44.0_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_windows_amd64.zip) | 6.6 MiB | `native/win/x64` |
 | [matcha_0.44.0_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_windows_arm64.zip) | 5.9 MiB | `native/win/arm64` |
 
-## Popularity
-
-- **Stars**: 1,094 · **Forks**: 82 · **Open issues**: 871 · **Contributors**: 49
-
-## Totals (cumulative)
-
-- **Releases**: 112 · **Merged PRs**: 692 · **Open PRs**: 25 · **Closed issues**: 822 · **Open issues**: 49 · **Commits**: 789
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 4 | 1 | 4 | 0 |
-| 90d | 2026-06-12 | 12 | 89 | 24 | 75 | 47 | 54 |
-| 360d | 2025-09-15 | 99 | 676 | 25 | 789 | 49 | 654 |
-
-## Code size
-
-Total: **56,148** lines of code across **221** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 35,769 | 2,954 | 5,377 | 195 |
-| C | 8,157 | 19 | 1,103 | 5 |
-| Json | 7,173 | 0 | 0 | 17 |
-| Jsx | 1,401 | 13 | 50 | 2 |
-| Css | 1,192 | 29 | 105 | 2 |
-
 ## Improve this data
 
 Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `matcha` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:26:44Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:21:15Z._
