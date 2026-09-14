@@ -48,12 +48,12 @@ Total: **56,148** lines of code across **221** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 4 | 1 | 4 | 0 |
-| last60d | 2026-07-15 | 4 | 6 | 15 | 4 | 4 | 5 |
-| 90d | 2026-06-15 | 12 | 79 | 24 | 75 | 46 | 33 |
-| last180d | 2026-03-17 | 54 | 505 | 25 | 711 | 48 | 425 |
-| 360d | 2025-09-18 | 99 | 676 | 25 | 790 | 48 | 654 |
-| last720d | 2024-09-23 | 100 | 692 | 25 | 823 | 48 | 789 |
+| 30d | 2026-08-15 | 0 | 0 | 4 | 1 | 4 | 0 |
+| last60d | 2026-07-16 | 4 | 6 | 13 | 3 | 4 | 5 |
+| 90d | 2026-06-16 | 10 | 76 | 24 | 75 | 46 | 33 |
+| last180d | 2026-03-18 | 54 | 497 | 25 | 710 | 48 | 425 |
+| 360d | 2025-09-19 | 99 | 676 | 25 | 790 | 48 | 654 |
+| last720d | 2024-09-24 | 100 | 692 | 25 | 823 | 48 | 789 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:58:09Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:59:25Z._
