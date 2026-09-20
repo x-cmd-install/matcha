@@ -4,7 +4,7 @@
 
 A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 
-![matcha](https://repo.x-cmd.io/matcha.svg)
+[![x-cmd/install — matcha Code Quality Monitoring Repo Card](https://repo.x-cmd.io/matcha.svg)](https://x-cmd.com/install/matcha)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **56,148** lines of code across **221** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 3 | 1 | 4 | 0 |
-| last60d | 2026-07-20 | 4 | 5 | 9 | 2 | 4 | 5 |
-| 90d | 2026-06-20 | 10 | 62 | 22 | 76 | 45 | 33 |
-| last180d | 2026-03-22 | 52 | 483 | 23 | 705 | 47 | 425 |
-| 360d | 2025-09-23 | 99 | 676 | 23 | 791 | 47 | 654 |
-| last720d | 2024-09-28 | 100 | 692 | 23 | 824 | 47 | 789 |
+| 30d | 2026-08-21 | 0 | 0 | 3 | 1 | 2 | 0 |
+| last60d | 2026-07-22 | 4 | 4 | 8 | 2 | 4 | 0 |
+| 90d | 2026-06-22 | 9 | 51 | 22 | 15 | 5 | 0 |
+| last180d | 2026-03-24 | 44 | 454 | 23 | 686 | 47 | 0 |
+| 360d | 2025-09-25 | 99 | 676 | 23 | 791 | 47 | 0 |
+| last720d | 2024-09-30 | 100 | 692 | 23 | 824 | 47 | 789 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:02:09Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:06:59Z._
