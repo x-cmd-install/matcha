@@ -32,7 +32,7 @@ Total: **70,399** lines of code across **282** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `nightlyv0` (2026-07-12)
+- **Latest**: `v1.0.1` (2026-09-27)
 - **Last commit**: 2026-09-27
 - **Assets in release**: 7
 
@@ -42,30 +42,30 @@ Total: **70,399** lines of code across **282** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 699 · **Open PRs**: 25 · **Closed issues**: 824 · **Open issues**: 48 · **Commits**: 816
+- **Releases**: 113 · **Merged PRs**: 699 · **Open PRs**: 27 · **Closed issues**: 825 · **Open issues**: 47 · **Commits**: 817
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 2 | 5 | 1 | 3 | 4 |
-| last60d | 2026-07-29 | 3 | 3 | 11 | 1 | 5 | 5 |
-| 90d | 2026-06-29 | 7 | 36 | 24 | 14 | 5 | 17 |
-| last180d | 2026-03-31 | 43 | 441 | 25 | 685 | 48 | 402 |
-| 360d | 2025-10-02 | 99 | 683 | 25 | 791 | 48 | 685 |
-| last720d | 2024-10-07 | 100 | 699 | 25 | 824 | 48 | 816 |
+| 30d | 2026-08-29 | 2 | 2 | 7 | 2 | 2 | 4 |
+| last60d | 2026-07-30 | 4 | 3 | 13 | 2 | 4 | 5 |
+| 90d | 2026-06-30 | 8 | 34 | 25 | 15 | 4 | 17 |
+| last180d | 2026-04-01 | 43 | 439 | 27 | 686 | 47 | 402 |
+| 360d | 2025-10-03 | 100 | 683 | 27 | 792 | 47 | 685 |
+| last720d | 2024-10-08 | 100 | 699 | 27 | 825 | 47 | 817 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/floatpane/matcha/releases/download/v0.44.0/checksums.txt) | 594 B | `other` |
-| [matcha_0.44.0_darwin_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_darwin_amd64.tar.gz) | 7.3 MiB | `native/darwin/x64` |
-| [matcha_0.44.0_darwin_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_darwin_arm64.tar.gz) | 6.9 MiB | `native/darwin/arm64` |
-| [matcha_0.44.0_linux_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_linux_amd64.tar.gz) | 7.7 MiB | `native/linux/x64` |
-| [matcha_0.44.0_linux_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_linux_arm64.tar.gz) | 7.1 MiB | `native/linux/arm64` |
-| [matcha_0.44.0_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_windows_amd64.zip) | 6.6 MiB | `native/win/x64` |
-| [matcha_0.44.0_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v0.44.0/matcha_0.44.0_windows_arm64.zip) | 5.9 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/floatpane/matcha/releases/download/v1.0.1/checksums.txt) | 588 B | `other` |
+| [matcha_1.0.1_darwin_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.0.1/matcha_1.0.1_darwin_amd64.tar.gz) | 7.7 MiB | `native/darwin/x64` |
+| [matcha_1.0.1_darwin_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.0.1/matcha_1.0.1_darwin_arm64.tar.gz) | 7.3 MiB | `native/darwin/arm64` |
+| [matcha_1.0.1_linux_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.0.1/matcha_1.0.1_linux_amd64.tar.gz) | 8.1 MiB | `native/linux/x64` |
+| [matcha_1.0.1_linux_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.0.1/matcha_1.0.1_linux_arm64.tar.gz) | 7.5 MiB | `native/linux/arm64` |
+| [matcha_1.0.1_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v1.0.1/matcha_1.0.1_windows_amd64.zip) | 7.0 MiB | `native/win/x64` |
+| [matcha_1.0.1_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v1.0.1/matcha_1.0.1_windows_arm64.zip) | 6.3 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:20:05Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:29:55Z._
