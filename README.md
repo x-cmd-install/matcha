@@ -14,11 +14,11 @@ x install matcha
 
 ## Code insight
 
-Total: **70,462** lines of code across **282** files in the top 5 languages.
+Total: **70,695** lines of code across **283** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 49,071 | 4,059 | 7,010 | 256 |
+| Go | 49,305 | 4,108 | 7,048 | 257 |
 | C | 8,441 | 19 | 1,103 | 5 |
 | Json | 7,372 | 0 | 0 | 17 |
 | Jsx | 1,401 | 13 | 50 | 2 |
@@ -33,7 +33,7 @@ Total: **70,462** lines of code across **282** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightlyv0` (2026-09-27)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-04
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **70,462** lines of code across **282** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 700 · **Open PRs**: 26 · **Closed issues**: 825 · **Open issues**: 47 · **Commits**: 818
+- **Releases**: 113 · **Merged PRs**: 707 · **Open PRs**: 25 · **Closed issues**: 829 · **Open issues**: 43 · **Commits**: 826
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 2 | 2 | 7 | 1 | 2 | 5 |
-| last60d | 2026-08-05 | 3 | 3 | 11 | 2 | 4 | 5 |
-| 90d | 2026-07-06 | 6 | 21 | 24 | 11 | 4 | 10 |
-| last180d | 2026-04-07 | 41 | 419 | 26 | 682 | 47 | 379 |
-| 360d | 2025-10-09 | 100 | 684 | 26 | 792 | 47 | 686 |
-| last720d | 2024-10-14 | 100 | 700 | 26 | 825 | 47 | 818 |
+| 30d | 2026-09-05 | 2 | 9 | 7 | 2 | 1 | 13 |
+| last60d | 2026-08-06 | 2 | 10 | 10 | 4 | 2 | 13 |
+| 90d | 2026-07-07 | 6 | 26 | 23 | 13 | 2 | 18 |
+| last180d | 2026-04-08 | 41 | 415 | 25 | 685 | 43 | 387 |
+| 360d | 2025-10-10 | 100 | 691 | 25 | 796 | 43 | 694 |
+| last720d | 2024-10-15 | 100 | 707 | 25 | 829 | 43 | 826 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T05:52:50Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:43:10Z._
