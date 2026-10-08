@@ -14,13 +14,13 @@ x install matcha
 
 ## Code insight
 
-Total: **70,695** lines of code across **283** files in the top 5 languages.
+Total: **70,703** lines of code across **283** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 49,305 | 4,108 | 7,048 | 257 |
 | C | 8,441 | 19 | 1,103 | 5 |
-| Json | 7,372 | 0 | 0 | 17 |
+| Json | 7,380 | 0 | 0 | 17 |
 | Jsx | 1,401 | 13 | 50 | 2 |
 | Css | 1,192 | 29 | 105 | 2 |
 
@@ -33,27 +33,27 @@ Total: **70,695** lines of code across **283** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightlyv0` (2026-09-27)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-07
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,114 · **Forks**: 87 · **Open issues**: 872 · **Contributors**: 51
+- **Stars**: 1,117 · **Forks**: 87 · **Open issues**: 873 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 707 · **Open PRs**: 27 · **Closed issues**: 829 · **Open issues**: 43 · **Commits**: 826
+- **Releases**: 113 · **Merged PRs**: 708 · **Open PRs**: 26 · **Closed issues**: 830 · **Open issues**: 43 · **Commits**: 827
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 9 | 8 | 2 | 0 | 13 |
-| last60d | 2026-08-08 | 2 | 10 | 12 | 4 | 2 | 13 |
-| 90d | 2026-07-09 | 6 | 21 | 25 | 11 | 2 | 18 |
-| last180d | 2026-04-10 | 41 | 407 | 27 | 684 | 43 | 387 |
-| 360d | 2025-10-12 | 100 | 691 | 27 | 796 | 43 | 694 |
-| last720d | 2024-10-17 | 100 | 707 | 27 | 829 | 43 | 826 |
+| 30d | 2026-09-08 | 2 | 10 | 7 | 2 | 1 | 14 |
+| last60d | 2026-08-09 | 2 | 11 | 11 | 4 | 3 | 14 |
+| 90d | 2026-07-10 | 6 | 19 | 24 | 10 | 3 | 19 |
+| last180d | 2026-04-11 | 40 | 405 | 26 | 685 | 43 | 388 |
+| 360d | 2025-10-13 | 100 | 692 | 26 | 797 | 43 | 695 |
+| last720d | 2024-10-18 | 100 | 708 | 26 | 830 | 43 | 827 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:54:49Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:12:57Z._
