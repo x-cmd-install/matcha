@@ -33,27 +33,27 @@ Total: **70,952** lines of code across **286** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightlyv0` (2026-10-10)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-29
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,167 · **Forks**: 90 · **Open issues**: 875 · **Contributors**: 53
+- **Stars**: 1,173 · **Forks**: 90 · **Open issues**: 875 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 716 · **Open PRs**: 29 · **Closed issues**: 834 · **Open issues**: 41 · **Commits**: 835
+- **Releases**: 114 · **Merged PRs**: 717 · **Open PRs**: 29 · **Closed issues**: 834 · **Open issues**: 41 · **Commits**: 836
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 13 | 15 | 2 | 1 | 18 |
-| last60d | 2026-08-30 | 3 | 18 | 19 | 6 | 1 | 22 |
-| 90d | 2026-07-31 | 5 | 20 | 21 | 8 | 1 | 23 |
-| last180d | 2026-05-02 | 31 | 291 | 29 | 127 | 40 | 271 |
-| 360d | 2025-11-03 | 100 | 700 | 29 | 801 | 41 | 703 |
-| last720d | 2024-11-08 | 100 | 716 | 29 | 834 | 41 | 835 |
+| 30d | 2026-09-30 | 2 | 14 | 15 | 2 | 1 | 19 |
+| last60d | 2026-08-31 | 3 | 19 | 19 | 6 | 1 | 23 |
+| 90d | 2026-08-01 | 5 | 20 | 21 | 8 | 1 | 24 |
+| last180d | 2026-05-03 | 30 | 284 | 29 | 127 | 40 | 272 |
+| 360d | 2025-11-04 | 100 | 701 | 29 | 801 | 41 | 704 |
+| last720d | 2024-11-09 | 100 | 717 | 29 | 834 | 41 | 836 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:52:16Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:52:57Z._
