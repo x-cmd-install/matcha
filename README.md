@@ -14,11 +14,11 @@ x install matcha
 
 ## Code insight
 
-Total: **70,952** lines of code across **286** files in the top 5 languages.
+Total: **71,288** lines of code across **286** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 49,572 | 4,132 | 7,083 | 260 |
+| Go | 49,908 | 4,146 | 7,107 | 260 |
 | C | 8,441 | 19 | 1,103 | 5 |
 | Json | 7,389 | 0 | 0 | 17 |
 | Jsx | 1,401 | 13 | 50 | 2 |
@@ -32,40 +32,40 @@ Total: **70,952** lines of code across **286** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `nightlyv0` (2026-10-10)
-- **Last commit**: 2026-10-29
+- **Latest**: `v1.2.0` (2026-10-31)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,176 · **Forks**: 90 · **Open issues**: 876 · **Contributors**: 54
+- **Stars**: 1,177 · **Forks**: 90 · **Open issues**: 876 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 717 · **Open PRs**: 29 · **Closed issues**: 834 · **Open issues**: 42 · **Commits**: 836
+- **Releases**: 115 · **Merged PRs**: 721 · **Open PRs**: 25 · **Closed issues**: 836 · **Open issues**: 40 · **Commits**: 840
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 14 | 15 | 2 | 2 | 19 |
-| last60d | 2026-09-01 | 3 | 19 | 19 | 6 | 2 | 23 |
-| 90d | 2026-08-02 | 4 | 20 | 21 | 8 | 2 | 24 |
-| last180d | 2026-05-04 | 29 | 283 | 29 | 124 | 41 | 272 |
-| 360d | 2025-11-05 | 100 | 701 | 29 | 801 | 42 | 704 |
-| last720d | 2024-11-10 | 100 | 717 | 29 | 834 | 42 | 836 |
+| 30d | 2026-10-02 | 3 | 16 | 16 | 2 | 2 | 23 |
+| last60d | 2026-09-02 | 4 | 21 | 20 | 5 | 2 | 27 |
+| 90d | 2026-08-03 | 5 | 22 | 20 | 8 | 2 | 28 |
+| last180d | 2026-05-05 | 30 | 285 | 25 | 124 | 39 | 276 |
+| 360d | 2025-11-06 | 100 | 705 | 25 | 803 | 40 | 708 |
+| last720d | 2024-11-11 | 100 | 721 | 25 | 836 | 40 | 840 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/floatpane/matcha/releases/download/v1.1.0/checksums.txt) | 588 B | `other` |
-| [matcha_1.1.0_darwin_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.1.0/matcha_1.1.0_darwin_amd64.tar.gz) | 7.7 MiB | `native/darwin/x64` |
-| [matcha_1.1.0_darwin_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.1.0/matcha_1.1.0_darwin_arm64.tar.gz) | 7.3 MiB | `native/darwin/arm64` |
-| [matcha_1.1.0_linux_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.1.0/matcha_1.1.0_linux_amd64.tar.gz) | 8.0 MiB | `native/linux/x64` |
-| [matcha_1.1.0_linux_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.1.0/matcha_1.1.0_linux_arm64.tar.gz) | 7.4 MiB | `native/linux/arm64` |
-| [matcha_1.1.0_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v1.1.0/matcha_1.1.0_windows_amd64.zip) | 6.9 MiB | `native/win/x64` |
-| [matcha_1.1.0_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v1.1.0/matcha_1.1.0_windows_arm64.zip) | 6.2 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/floatpane/matcha/releases/download/v1.2.0/checksums.txt) | 588 B | `other` |
+| [matcha_1.2.0_darwin_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_darwin_amd64.tar.gz) | 7.7 MiB | `native/darwin/x64` |
+| [matcha_1.2.0_darwin_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_darwin_arm64.tar.gz) | 7.3 MiB | `native/darwin/arm64` |
+| [matcha_1.2.0_linux_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_linux_amd64.tar.gz) | 8.0 MiB | `native/linux/x64` |
+| [matcha_1.2.0_linux_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_linux_arm64.tar.gz) | 7.4 MiB | `native/linux/arm64` |
+| [matcha_1.2.0_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_windows_amd64.zip) | 6.9 MiB | `native/win/x64` |
+| [matcha_1.2.0_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_windows_arm64.zip) | 6.2 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:35:53Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:07:23Z._
