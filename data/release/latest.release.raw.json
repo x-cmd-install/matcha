@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 588,
       "digest": "sha256:774bfd22bb0192dda826ccdff15ede49bdb470131947c0702d8f1d4c440f24c0",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-10-31T10:03:38Z",
       "updated_at": "2026-10-31T10:03:38Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v1.2.0/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7611195,
       "digest": "sha256:21227dd7ec7b7c73086f3ddf432a2adce588c51633972718cddbd0d6eaf8c913",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-10-31T10:03:35Z",
       "updated_at": "2026-10-31T10:03:36Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8434259,
       "digest": "sha256:46a887bd85860b059f4a3a8f9d20e70de1aa304f2fc97e49e180fde0884c69a9",
-      "download_count": 40,
+      "download_count": 87,
       "created_at": "2026-10-31T10:03:37Z",
       "updated_at": "2026-10-31T10:03:37Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7796588,
       "digest": "sha256:62372c8ac230ce18ae943f27551a607e1c46501d85727410b17ef692b3e8fcd9",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-31T10:03:36Z",
       "updated_at": "2026-10-31T10:03:37Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7265858,
       "digest": "sha256:e39da026e347c1bf6571101641c3af3491093df007efe1636a31a9495e1499ee",
-      "download_count": 15,
+      "download_count": 21,
       "created_at": "2026-10-31T10:03:35Z",
       "updated_at": "2026-10-31T10:03:36Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_windows_amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6535186,
       "digest": "sha256:fdd1975831a02b128b06357f8f3eed7dc8b3ffc31ac611a4caaa44845a345489",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-10-31T10:03:36Z",
       "updated_at": "2026-10-31T10:03:37Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_windows_arm64.zip"
