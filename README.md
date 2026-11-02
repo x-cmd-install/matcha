@@ -38,22 +38,22 @@ Total: **71,288** lines of code across **286** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,177 · **Forks**: 90 · **Open issues**: 876 · **Contributors**: 55
+- **Stars**: 1,184 · **Forks**: 90 · **Open issues**: 877 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 115 · **Merged PRs**: 721 · **Open PRs**: 25 · **Closed issues**: 836 · **Open issues**: 40 · **Commits**: 840
+- **Releases**: 115 · **Merged PRs**: 721 · **Open PRs**: 25 · **Closed issues**: 836 · **Open issues**: 41 · **Commits**: 840
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 3 | 16 | 16 | 2 | 2 | 23 |
-| last60d | 2026-09-02 | 4 | 21 | 20 | 5 | 2 | 27 |
-| 90d | 2026-08-03 | 5 | 22 | 20 | 8 | 2 | 28 |
-| last180d | 2026-05-05 | 30 | 285 | 25 | 124 | 39 | 276 |
-| 360d | 2025-11-06 | 100 | 705 | 25 | 803 | 40 | 708 |
-| last720d | 2024-11-11 | 100 | 721 | 25 | 836 | 40 | 840 |
+| 30d | 2026-10-03 | 3 | 16 | 16 | 2 | 3 | 13 |
+| last60d | 2026-09-03 | 4 | 21 | 20 | 5 | 3 | 27 |
+| 90d | 2026-08-04 | 5 | 22 | 20 | 8 | 3 | 28 |
+| last180d | 2026-05-06 | 30 | 282 | 25 | 118 | 40 | 247 |
+| 360d | 2025-11-07 | 100 | 705 | 25 | 803 | 41 | 708 |
+| last720d | 2024-11-12 | 100 | 721 | 25 | 836 | 41 | 840 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:07:23Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:07:26Z._
