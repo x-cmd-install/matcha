@@ -32,40 +32,40 @@ Total: **71,887** lines of code across **290** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `nightlyv0` (2026-10-31)
+- **Latest**: `v1.3.0` (2026-11-09)
 - **Last commit**: 2026-11-07
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,200 · **Forks**: 95 · **Open issues**: 878 · **Contributors**: 56
+- **Stars**: 1,204 · **Forks**: 95 · **Open issues**: 878 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 115 · **Merged PRs**: 732 · **Open PRs**: 24 · **Closed issues**: 839 · **Open issues**: 39 · **Commits**: 851
+- **Releases**: 116 · **Merged PRs**: 732 · **Open PRs**: 24 · **Closed issues**: 839 · **Open issues**: 39 · **Commits**: 851
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 3 | 13 | 18 | 3 | 2 | 19 |
-| last60d | 2026-09-10 | 4 | 30 | 21 | 5 | 2 | 38 |
-| 90d | 2026-08-11 | 4 | 31 | 22 | 10 | 2 | 38 |
-| last180d | 2026-05-13 | 27 | 261 | 24 | 116 | 38 | 224 |
-| 360d | 2025-11-14 | 100 | 716 | 24 | 806 | 39 | 719 |
-| last720d | 2024-11-19 | 100 | 732 | 24 | 839 | 39 | 851 |
+| 30d | 2026-10-11 | 3 | 13 | 18 | 3 | 2 | 19 |
+| last60d | 2026-09-11 | 5 | 30 | 20 | 5 | 2 | 38 |
+| 90d | 2026-08-12 | 5 | 31 | 22 | 10 | 2 | 38 |
+| last180d | 2026-05-14 | 26 | 255 | 24 | 115 | 38 | 224 |
+| 360d | 2025-11-15 | 100 | 716 | 24 | 806 | 39 | 719 |
+| last720d | 2024-11-20 | 100 | 732 | 24 | 839 | 39 | 851 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/floatpane/matcha/releases/download/v1.2.0/checksums.txt) | 588 B | `other` |
-| [matcha_1.2.0_darwin_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_darwin_amd64.tar.gz) | 7.7 MiB | `native/darwin/x64` |
-| [matcha_1.2.0_darwin_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_darwin_arm64.tar.gz) | 7.3 MiB | `native/darwin/arm64` |
-| [matcha_1.2.0_linux_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_linux_amd64.tar.gz) | 8.0 MiB | `native/linux/x64` |
-| [matcha_1.2.0_linux_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_linux_arm64.tar.gz) | 7.4 MiB | `native/linux/arm64` |
-| [matcha_1.2.0_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_windows_amd64.zip) | 6.9 MiB | `native/win/x64` |
-| [matcha_1.2.0_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v1.2.0/matcha_1.2.0_windows_arm64.zip) | 6.2 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/floatpane/matcha/releases/download/v1.3.0/checksums.txt) | 588 B | `other` |
+| [matcha_1.3.0_darwin_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.3.0/matcha_1.3.0_darwin_amd64.tar.gz) | 7.9 MiB | `native/darwin/x64` |
+| [matcha_1.3.0_darwin_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.3.0/matcha_1.3.0_darwin_arm64.tar.gz) | 7.4 MiB | `native/darwin/arm64` |
+| [matcha_1.3.0_linux_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.3.0/matcha_1.3.0_linux_amd64.tar.gz) | 8.2 MiB | `native/linux/x64` |
+| [matcha_1.3.0_linux_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.3.0/matcha_1.3.0_linux_arm64.tar.gz) | 7.6 MiB | `native/linux/arm64` |
+| [matcha_1.3.0_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v1.3.0/matcha_1.3.0_windows_amd64.zip) | 7.1 MiB | `native/win/x64` |
+| [matcha_1.3.0_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v1.3.0/matcha_1.3.0_windows_arm64.zip) | 6.4 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:19:02Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:17:54Z._
