@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 588,
       "digest": "sha256:54a066df3ee1892ca0b7d6eb15b67bd689106566be8dcc2d89e19e10d5af9438",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-11-09T09:07:33Z",
       "updated_at": "2026-11-09T09:07:33Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v1.3.0/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7759048,
       "digest": "sha256:cf25224319dd9cd41dd4f88036ef8fc5481ac52cb8150cddbcb82b9529263eed",
-      "download_count": 24,
+      "download_count": 27,
       "created_at": "2026-11-09T09:07:30Z",
       "updated_at": "2026-11-09T09:07:31Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v1.3.0/matcha_1.3.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8607006,
       "digest": "sha256:3e1b058e9d29ec302fbf527861fa182be9b1db41a85f1a970c868ec60826848b",
-      "download_count": 139,
+      "download_count": 153,
       "created_at": "2026-11-09T09:07:31Z",
       "updated_at": "2026-11-09T09:07:32Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v1.3.0/matcha_1.3.0_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7441403,
       "digest": "sha256:4e7903fcaf601f929e6a523d8829f0e5cde6e9cab8b641b4b51382ea0beb2fdc",
-      "download_count": 36,
+      "download_count": 41,
       "created_at": "2026-11-09T09:07:30Z",
       "updated_at": "2026-11-09T09:07:31Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v1.3.0/matcha_1.3.0_windows_amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6679898,
       "digest": "sha256:c21c5e43609fa9a5aff92d21109e8658437d52896abbd5a1d30c128b4ce2fa27",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-09T09:07:31Z",
       "updated_at": "2026-11-09T09:07:32Z",
       "browser_download_url": "https://github.com/floatpane/matcha/releases/download/v1.3.0/matcha_1.3.0_windows_arm64.zip"
