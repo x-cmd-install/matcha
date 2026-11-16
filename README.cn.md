@@ -14,11 +14,11 @@ x install matcha
 
 ## 代码洞察
 
-合计: **78,849** 行代码（覆盖前 5 种语言、共 **329** 个文件）。
+合计: **81,929** 行代码（覆盖前 5 种语言、共 **344** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 57,554 | 5,403 | 7,747 | 303 |
+| Go | 60,634 | 5,832 | 8,046 | 318 |
 | C | 8,352 | 92 | 1,160 | 5 |
 | Json | 7,392 | 0 | 0 | 17 |
 | Jsx | 1,401 | 13 | 50 | 2 |
@@ -32,40 +32,40 @@ x install matcha
 
 ## 发布
 
-- **最新版本**: `nightlyv0` (2026-11-14)
-- **最近提交**: 2026-11-14
+- **最新版本**: `v1.4.3` (2026-11-15)
+- **最近提交**: 2026-11-15
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 1,216 · **Fork**: 97 · **开放 issue**: 879 · **贡献者**: 56
+- **Star**: 1,216 · **Fork**: 98 · **开放 issue**: 879 · **贡献者**: 56
 
 ## 累计统计
 
-- **发布数**: 117 · **已合并 PR**: 735 · **开放 PR**: 24 · **已关闭 issue**: 839 · **开放 issue**: 40 · **提交数**: 866
+- **发布数**: 118 · **已合并 PR**: 735 · **开放 PR**: 23 · **已关闭 issue**: 839 · **开放 issue**: 40 · **提交数**: 884
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 15 | 17 | 3 | 3 | 30 |
-| last60d | 2026-09-16 | 6 | 33 | 20 | 5 | 3 | 51 |
-| 90d | 2026-08-17 | 6 | 33 | 22 | 10 | 3 | 51 |
-| last180d | 2026-05-19 | 26 | 242 | 24 | 114 | 39 | 195 |
-| 360d | 2025-11-20 | 100 | 718 | 24 | 806 | 40 | 731 |
-| last720d | 2024-11-25 | 100 | 735 | 24 | 839 | 40 | 866 |
+| 30d | 2026-10-17 | 5 | 13 | 15 | 3 | 2 | 48 |
+| last60d | 2026-09-17 | 7 | 33 | 20 | 5 | 3 | 69 |
+| 90d | 2026-08-18 | 7 | 33 | 21 | 10 | 3 | 69 |
+| last180d | 2026-05-20 | 27 | 240 | 23 | 112 | 39 | 213 |
+| 360d | 2025-11-21 | 100 | 718 | 23 | 806 | 40 | 749 |
+| last720d | 2024-11-26 | 100 | 735 | 23 | 839 | 40 | 884 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/floatpane/matcha/releases/download/v1.4.1/checksums.txt) | 588 B | `other` |
-| [matcha_1.4.1_darwin_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_darwin_amd64.tar.gz) | 8.1 MiB | `native/darwin/x64` |
-| [matcha_1.4.1_darwin_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_darwin_arm64.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
-| [matcha_1.4.1_linux_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_linux_amd64.tar.gz) | 8.4 MiB | `native/linux/x64` |
-| [matcha_1.4.1_linux_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_linux_arm64.tar.gz) | 7.7 MiB | `native/linux/arm64` |
-| [matcha_1.4.1_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_windows_amd64.zip) | 7.3 MiB | `native/win/x64` |
-| [matcha_1.4.1_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_windows_arm64.zip) | 6.6 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/floatpane/matcha/releases/download/v1.4.3/checksums.txt) | 588 B | `other` |
+| [matcha_1.4.3_darwin_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_darwin_amd64.tar.gz) | 8.3 MiB | `native/darwin/x64` |
+| [matcha_1.4.3_darwin_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_darwin_arm64.tar.gz) | 7.8 MiB | `native/darwin/arm64` |
+| [matcha_1.4.3_linux_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_linux_amd64.tar.gz) | 8.6 MiB | `native/linux/x64` |
+| [matcha_1.4.3_linux_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_linux_arm64.tar.gz) | 7.9 MiB | `native/linux/arm64` |
+| [matcha_1.4.3_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_windows_amd64.zip) | 7.5 MiB | `native/win/x64` |
+| [matcha_1.4.3_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_windows_arm64.zip) | 6.7 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ matcha 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T06:31:01Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T06:29:32Z._

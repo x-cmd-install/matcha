@@ -14,11 +14,11 @@ x install matcha
 
 ## Code insight
 
-Total: **78,849** lines of code across **329** files in the top 5 languages.
+Total: **81,929** lines of code across **344** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 57,554 | 5,403 | 7,747 | 303 |
+| Go | 60,634 | 5,832 | 8,046 | 318 |
 | C | 8,352 | 92 | 1,160 | 5 |
 | Json | 7,392 | 0 | 0 | 17 |
 | Jsx | 1,401 | 13 | 50 | 2 |
@@ -32,40 +32,40 @@ Total: **78,849** lines of code across **329** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `nightlyv0` (2026-11-14)
-- **Last commit**: 2026-11-14
+- **Latest**: `v1.4.3` (2026-11-15)
+- **Last commit**: 2026-11-15
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,216 · **Forks**: 97 · **Open issues**: 879 · **Contributors**: 56
+- **Stars**: 1,216 · **Forks**: 98 · **Open issues**: 879 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 735 · **Open PRs**: 24 · **Closed issues**: 839 · **Open issues**: 40 · **Commits**: 866
+- **Releases**: 118 · **Merged PRs**: 735 · **Open PRs**: 23 · **Closed issues**: 839 · **Open issues**: 40 · **Commits**: 884
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 15 | 17 | 3 | 3 | 30 |
-| last60d | 2026-09-16 | 6 | 33 | 20 | 5 | 3 | 51 |
-| 90d | 2026-08-17 | 6 | 33 | 22 | 10 | 3 | 51 |
-| last180d | 2026-05-19 | 26 | 242 | 24 | 114 | 39 | 195 |
-| 360d | 2025-11-20 | 100 | 718 | 24 | 806 | 40 | 731 |
-| last720d | 2024-11-25 | 100 | 735 | 24 | 839 | 40 | 866 |
+| 30d | 2026-10-17 | 5 | 13 | 15 | 3 | 2 | 48 |
+| last60d | 2026-09-17 | 7 | 33 | 20 | 5 | 3 | 69 |
+| 90d | 2026-08-18 | 7 | 33 | 21 | 10 | 3 | 69 |
+| last180d | 2026-05-20 | 27 | 240 | 23 | 112 | 39 | 213 |
+| 360d | 2025-11-21 | 100 | 718 | 23 | 806 | 40 | 749 |
+| last720d | 2024-11-26 | 100 | 735 | 23 | 839 | 40 | 884 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/floatpane/matcha/releases/download/v1.4.1/checksums.txt) | 588 B | `other` |
-| [matcha_1.4.1_darwin_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_darwin_amd64.tar.gz) | 8.1 MiB | `native/darwin/x64` |
-| [matcha_1.4.1_darwin_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_darwin_arm64.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
-| [matcha_1.4.1_linux_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_linux_amd64.tar.gz) | 8.4 MiB | `native/linux/x64` |
-| [matcha_1.4.1_linux_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_linux_arm64.tar.gz) | 7.7 MiB | `native/linux/arm64` |
-| [matcha_1.4.1_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_windows_amd64.zip) | 7.3 MiB | `native/win/x64` |
-| [matcha_1.4.1_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v1.4.1/matcha_1.4.1_windows_arm64.zip) | 6.6 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/floatpane/matcha/releases/download/v1.4.3/checksums.txt) | 588 B | `other` |
+| [matcha_1.4.3_darwin_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_darwin_amd64.tar.gz) | 8.3 MiB | `native/darwin/x64` |
+| [matcha_1.4.3_darwin_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_darwin_arm64.tar.gz) | 7.8 MiB | `native/darwin/arm64` |
+| [matcha_1.4.3_linux_amd64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_linux_amd64.tar.gz) | 8.6 MiB | `native/linux/x64` |
+| [matcha_1.4.3_linux_arm64.tar.gz](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_linux_arm64.tar.gz) | 7.9 MiB | `native/linux/arm64` |
+| [matcha_1.4.3_windows_amd64.zip](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_windows_amd64.zip) | 7.5 MiB | `native/win/x64` |
+| [matcha_1.4.3_windows_arm64.zip](https://github.com/floatpane/matcha/releases/download/v1.4.3/matcha_1.4.3_windows_arm64.zip) | 6.7 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:31:01Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:29:31Z._
