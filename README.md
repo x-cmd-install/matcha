@@ -32,28 +32,28 @@ Total: **81,929** lines of code across **344** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.4.3` (2026-11-15)
-- **Last commit**: 2026-11-15
+- **Latest**: `nightlyv0` (2026-11-15)
+- **Last commit**: 2026-11-23
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,234 · **Forks**: 100 · **Open issues**: 880 · **Contributors**: 56
+- **Stars**: 1,234 · **Forks**: 101 · **Open issues**: 880 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 735 · **Open PRs**: 24 · **Closed issues**: 839 · **Open issues**: 41 · **Commits**: 884
+- **Releases**: 118 · **Merged PRs**: 736 · **Open PRs**: 23 · **Closed issues**: 839 · **Open issues**: 41 · **Commits**: 885
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 5 | 8 | 17 | 2 | 3 | 46 |
-| last60d | 2026-09-23 | 7 | 33 | 22 | 5 | 4 | 65 |
-| 90d | 2026-08-24 | 7 | 33 | 22 | 8 | 4 | 69 |
-| last180d | 2026-05-26 | 25 | 198 | 24 | 111 | 40 | 173 |
-| 360d | 2025-11-27 | 100 | 717 | 24 | 806 | 41 | 749 |
-| last720d | 2024-12-02 | 100 | 735 | 24 | 839 | 41 | 884 |
+| 30d | 2026-10-24 | 5 | 8 | 17 | 2 | 3 | 47 |
+| last60d | 2026-09-24 | 7 | 34 | 21 | 5 | 4 | 66 |
+| 90d | 2026-08-25 | 7 | 34 | 21 | 8 | 4 | 70 |
+| last180d | 2026-05-27 | 25 | 194 | 23 | 111 | 40 | 174 |
+| 360d | 2025-11-28 | 100 | 718 | 23 | 806 | 41 | 750 |
+| last720d | 2024-12-03 | 100 | 736 | 23 | 839 | 41 | 885 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for matcha lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:58:10Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:53:07Z._
